@@ -7,8 +7,5 @@
 <Tailwindcss />
 <main class="md:max-w-[240px] text-center p-4 mx-auto">
 	<h1 class="text-red-500 uppercase font-thin text-7xl">Hello {name}!</h1>
-	<p>
-		Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte
-		apps.
-	</p>
+	<p>This is a starting place for my personal page.</p>
 </main>

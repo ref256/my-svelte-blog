@@ -2,6 +2,8 @@
 
 Based on https://github.com/sarioglu/svelte-tailwindcss-template
 
+ESLint and Prettier settings from SvelteKit
+
 ## Get started
 
 Install the dependencies...
